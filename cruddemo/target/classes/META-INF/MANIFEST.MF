@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: cruddemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mohd.Shehwar
+Implementation-Vendor-Id: com.luv2code.springboot
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://spring.io/projects/spring-boot/cruddemo
+Created-By: Maven Integration for Eclipse
+
